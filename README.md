@@ -7,7 +7,7 @@
 ## 🛠️ Installation
 
 ```shell
-git clone https://github.com/kkakkkka/CoG.git -b release
+git clone https://github.com/kkakkkka/CoG.git -b main
 cd CoG
 
 conda create -n cog python=3.9
