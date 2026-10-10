@@ -24,7 +24,7 @@ Install PyTorch after `requirements.txt`.
 
 ```shell
 pip install "huggingface_hub[cli]"
-huggingface-cli download kkakkkka/CoG-release --local-dir ckpts
+huggingface-cli download thuteam/CoG --local-dir ckpts
 ```
 
 ```text
